@@ -12,7 +12,7 @@ email: name.surname@email.co.uk
 website: www.github.com/paulamartingonzalez
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 twitter_username: paulittamg
