@@ -48,7 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Coming soon...
+  As a last year PhD student in computational biology, I have developed expertise in image analysis and biomedical data science - including graph learning and genomics analysis . I have a strong foundation in technical subjects, and I am able to use this knowledge to tackle complex problems in healthcare.
+
+  Throughout my doctoral studies, I have worked on a variety of projects involving the analysis of biological images - radiology and pathology - and the development of algorithms to extract valuable information from these images. I have also conducted research on machine learning algorithms and their applications in genomics, including the analysis of non-coding regions of the genome and the use of functional assays. 
+
+  In addition to my technical skills, I am a curious and creative problem solver who is passionate about using data science to advance our understanding of biology and improve patient care. I am excited to continue pursuing these goals as I enter the job market and seek opportunities to apply my skills in a professional setting.
 
 content:
 
